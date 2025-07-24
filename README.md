@@ -1,4 +1,4 @@
-🌀 Air Quality Sensor ESP32 (SCD30 & SCD40/41)
+
 This Arduino sketch allows an ESP32 to interface with either the Adafruit SCD30 or Sensirion SCD40/SCD41 CO₂ sensors. It dynamically detects which sensor to use based on user input via Serial Monitor and reads real-time air quality data accordingly.
 
 📦 Features
