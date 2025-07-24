@@ -1,4 +1,5 @@
 
+
 This Arduino sketch allows an ESP32 to interface with either the Adafruit SCD30 or Sensirion SCD40/SCD41 CO₂ sensors. It dynamically detects which sensor to use based on user input via Serial Monitor and reads real-time air quality data accordingly.
 
 📦 Features
@@ -86,4 +87,6 @@ Note: Only Adafruit_SCD30 is shown in this snippet. Ensure scd4x setup and loop 
 The sensor selection only happens at boot.
 
 The .DS_Store file should be ignored in .gitignore if you're using macOS.
+
+
 
